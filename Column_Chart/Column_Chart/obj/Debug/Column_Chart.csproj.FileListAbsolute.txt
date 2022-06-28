@@ -1,0 +1,9 @@
+c:\users\shree\documents\visual studio 2013\Projects\Column_Chart\Column_Chart\bin\Debug\Column_Chart.exe.config
+c:\users\shree\documents\visual studio 2013\Projects\Column_Chart\Column_Chart\bin\Debug\Column_Chart.exe
+c:\users\shree\documents\visual studio 2013\Projects\Column_Chart\Column_Chart\bin\Debug\Column_Chart.pdb
+c:\users\shree\documents\visual studio 2013\Projects\Column_Chart\Column_Chart\obj\Debug\Column_Chart.csprojResolveAssemblyReference.cache
+c:\users\shree\documents\visual studio 2013\Projects\Column_Chart\Column_Chart\obj\Debug\Column_Chart.Form1.resources
+c:\users\shree\documents\visual studio 2013\Projects\Column_Chart\Column_Chart\obj\Debug\Column_Chart.Properties.Resources.resources
+c:\users\shree\documents\visual studio 2013\Projects\Column_Chart\Column_Chart\obj\Debug\Column_Chart.csproj.GenerateResource.Cache
+c:\users\shree\documents\visual studio 2013\Projects\Column_Chart\Column_Chart\obj\Debug\Column_Chart.exe
+c:\users\shree\documents\visual studio 2013\Projects\Column_Chart\Column_Chart\obj\Debug\Column_Chart.pdb

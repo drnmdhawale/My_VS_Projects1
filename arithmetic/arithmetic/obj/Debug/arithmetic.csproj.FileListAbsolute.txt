@@ -1,0 +1,8 @@
+c:\users\shree\documents\visual studio 2013\Projects\arithmetic\arithmetic\bin\Debug\arithmetic.exe.config
+c:\users\shree\documents\visual studio 2013\Projects\arithmetic\arithmetic\bin\Debug\arithmetic.exe
+c:\users\shree\documents\visual studio 2013\Projects\arithmetic\arithmetic\bin\Debug\arithmetic.pdb
+c:\users\shree\documents\visual studio 2013\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.Form1.resources
+c:\users\shree\documents\visual studio 2013\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.Properties.Resources.resources
+c:\users\shree\documents\visual studio 2013\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.csproj.GenerateResource.Cache
+c:\users\shree\documents\visual studio 2013\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.exe
+c:\users\shree\documents\visual studio 2013\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.pdb
